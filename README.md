@@ -171,7 +171,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 Se puede editar la distancia para poder verificar los ragos programados:
 
-![](image.png)
+![](https://github.com/DulceMRZ/PRACTICA4_NIVEL_DE_AGUA/blob/main/image.png?raw=true)
 
  
  
