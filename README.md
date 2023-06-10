@@ -166,10 +166,12 @@ b) Conexión de LEDS y resistencias
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-
 ![](https://github.com/DulceMRZ/PRACTICA4_NIVEL_DE_AGUA/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2010_06_2023%2011_36_47%20a.%20m..png?raw=true)
- 
 
+
+Se puede editar la distancia para poder verificar los ragos programados:
+
+![](image.png)
 
  
  
