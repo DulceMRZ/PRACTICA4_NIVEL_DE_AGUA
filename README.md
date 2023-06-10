@@ -147,16 +147,10 @@ a) Observar conexión de  **ESP32**.
 
 ![](https://github.com/DiegoJm10/PracticaESP32conULTRASONICO/blob/main/ESP32%20ULTRASONICO%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2009_06_2023%2008_32_06%20a.%20m..png?raw=true)
 
-b) Conexión de LCD 
+b) Conexión de LEDS y resistencias 
 
 
-![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/Captura3.PNG?raw=truee)
-
-
-
-c) Conexión de LCD más ESP32 y SENSOR
-
-![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/Captura1.PNG?raw=true)
+![](https://github.com/DulceMRZ/PRACTICA4_NIVEL_DE_AGUA/blob/main/Captura%201.PNG?raw=true)
 
 
 
@@ -164,8 +158,8 @@ c) Conexión de LCD más ESP32 y SENSOR
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Puedes modificar la distancia *doble click* al sensor **** 
-![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/Captura8.PNG?raw=true)
+3. Puedes modificar la distancia ***doble click* al sensor **** 
+
 
 
 ## 6. Resultados
@@ -173,9 +167,9 @@ c) Conexión de LCD más ESP32 y SENSOR
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
 
-![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/PRACTICA%203%20ESP32%20ULTRASONIDO%20+%20LCD%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2010_06_2023%2009_05_34%20a.%20m..png?raw=true)
+![](https://github.com/DulceMRZ/PRACTICA4_NIVEL_DE_AGUA/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2010_06_2023%2011_36_47%20a.%20m..png?raw=true)
  
-![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/Captura%205.PNG?raw=true)
+
 
  
  
